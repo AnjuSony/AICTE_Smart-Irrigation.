@@ -1,1 +1,2 @@
 # AICTE_Smart-Irrigation.
+The Smart Irrigation System is a machine learning-based application designed to optimize water usage in agricultural fields. It leverages real-time sensor data to predict whether irrigation is needed, thereby reducing water wastage and ensuring better crop health. By using a trained model and a user-friendly Streamlit interface, the system allows farmers or agricultural technologists to input sensor values and receive instant decisions on sprinkler activation.
